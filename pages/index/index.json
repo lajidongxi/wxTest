@@ -1,6 +1,7 @@
 {
   "usingComponents": {
     "LinkList":"/components/LinkList/LinkList",
-    "pmdggl":"/components/pmdggl/pmdggl"
+    "pmdggl":"/components/pmdggl/pmdggl",
+    "Top":"/components/Top/top"
   }
 }
