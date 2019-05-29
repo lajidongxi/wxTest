@@ -1,6 +1,4 @@
-<!--index.wxml-->
-<LinkList/>
 <view class="tr">
-<image src="../../images/zj.png" 
+<image src="../../images/1.png" 
 style="width: 358px;" mode ="widthFix"></image>
 </view>
